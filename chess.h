@@ -36,7 +36,7 @@ enum chess_status
 enum chess_player
 {
   CHESS_PLAYER_INVALID,
-  CHESS_PLAYER_WHITE,
+  CHESS_PLAYER_WHITE,//dev 
   CHESS_PLAYER_BLACK
 };
 
